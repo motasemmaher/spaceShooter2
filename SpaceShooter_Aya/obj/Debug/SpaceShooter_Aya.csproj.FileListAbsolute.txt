@@ -1,0 +1,28 @@
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\bin\Debug\SpaceShooter_Aya.exe.config
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\bin\Debug\SpaceShooter_Aya.exe
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\bin\Debug\SpaceShooter_Aya.pdb
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.csprojAssemblyReference.cache
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.Form1.resources
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.Properties.Resources.resources
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.csproj.GenerateResource.cache
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.exe
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.pdb
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.StatisticsForm.resources
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.HistoryForm.resources
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.CreateForm.resources
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.UpdateForm.resources
+C:\Users\Osama\Desktop\vp\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.GameForm.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\bin\Debug\SpaceShooter_Aya.exe.config
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\bin\Debug\SpaceShooter_Aya.exe
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\bin\Debug\SpaceShooter_Aya.pdb
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.csprojAssemblyReference.cache
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.CreateForm.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.Form1.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.HistoryForm.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.GameForm.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.Properties.Resources.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.StatisticsForm.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.UpdateForm.resources
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.csproj.GenerateResource.cache
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.exe
+D:\Work\Visual Programming\SpaceShooter_Aya\SpaceShooter_Aya\obj\Debug\SpaceShooter_Aya.pdb
